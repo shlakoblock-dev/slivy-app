@@ -1,4 +1,4 @@
-name: slivy vpn
+name: slivy_vpn
 description: Slivy VPN - only fast servers
 publish_to: 'none'
 version: 1.0.0+1
